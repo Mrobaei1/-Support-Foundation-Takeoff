@@ -1,0 +1,1768 @@
+{
+  "schemaVersion": 1,
+  "sourceDocument": "3984-60-DE-ST-DWG-005",
+  "revision": "01",
+  "status": "identifiers_only_dimensions_unverified",
+  "supports": [
+    {
+      "id": "SU-004",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-005",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-006",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-007",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-008",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-009",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-010",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-011",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-012",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-013",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-014",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-015",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-016",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-017",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-018",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-019",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-020",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-021",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-022",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-023",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-024",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-025",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-026",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-027",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-028",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-029",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-034",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-035",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-036",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-037",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-038",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-039",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-040",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-041",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-042",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-043",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-044",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-045",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-046",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-047",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-048",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-049",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-050",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-051",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-052",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-053",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-054",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-055",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-056",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-057",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-058",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-059",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-060",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-061",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-062",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-063",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-064",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-065",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-066",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-067",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-068",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-069",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-070",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-071",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-072",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-073",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-074",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-075",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-076",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-077",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-078",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-079",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-080",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-081",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-082",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-083",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-084",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-085",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-086",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-087",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-088",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-089",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-090",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-091",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-092",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-093",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-094",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-095",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-096",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-097",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-098",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-099",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-100",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-101",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-102",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-103",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-104",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-105",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-106",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-107",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-108",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-109",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-110",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-111",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-112",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-113",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-114",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-115",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-116",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-117",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-118",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-119",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-120",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-121",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-122",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-123",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-124",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-125",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-126",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-127",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-128",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-129",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-130",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-131",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-132",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-133",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-134",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-135",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-136",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-137",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-138",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-139",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-140",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-141",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-142",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-143",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-144",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-145",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-146",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-147",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-148",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-149",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-150",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-151",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-152",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-153",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-154",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-155",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-156",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-157",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-158",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-159",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-160",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-161",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-162",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-163",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-164",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-165",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-166",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-167",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-168",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-169",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-170",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-171",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-172",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-173",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-174",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-175",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-176",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-177",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-178",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-179",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-180",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-181",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-182",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    },
+    {
+      "id": "SU-183",
+      "reviewStatus": "pending_drawing_verification",
+      "foundationType": null,
+      "dimensionsMm": null,
+      "reinforcement": null,
+      "quantityTakeoff": null,
+      "sourceSheet": null,
+      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+    }
+  ]
+}
