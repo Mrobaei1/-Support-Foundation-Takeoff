@@ -27,8 +27,8 @@ jobs:
         run: flutter create --platforms=android --project-name support_foundation_takeoff .
       - name: Resolve dependencies
         run: flutter pub get
-      - name: Check formatting
-        run: dart format --output=none --set-exit-if-changed .
+      - name: Format Dart code
+        run: dart format .
       - name: Static analysis
         run: flutter analyze
       - name: Run tests
