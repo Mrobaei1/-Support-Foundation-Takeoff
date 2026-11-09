@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "sourceDocument": "3984-60-DE-ST-DWG-005",
   "revision": "01",
-  "status": "identifiers_only_dimensions_unverified",
+  "status": "176_support_identifiers_indexed_dimensions_pending_manual_verification",
   "supports": [
     {
       "id": "SU-004",
@@ -11,8 +11,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 5
     },
     {
       "id": "SU-005",
@@ -21,8 +22,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 6
     },
     {
       "id": "SU-006",
@@ -31,8 +33,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 7
     },
     {
       "id": "SU-007",
@@ -41,8 +44,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 8
     },
     {
       "id": "SU-008",
@@ -51,8 +55,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 9
     },
     {
       "id": "SU-009",
@@ -61,8 +66,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 10
     },
     {
       "id": "SU-010",
@@ -71,8 +77,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 11
     },
     {
       "id": "SU-011",
@@ -81,8 +88,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 12
     },
     {
       "id": "SU-012",
@@ -91,8 +99,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 13
     },
     {
       "id": "SU-013",
@@ -101,8 +110,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 14
     },
     {
       "id": "SU-014",
@@ -111,8 +121,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 15
     },
     {
       "id": "SU-015",
@@ -121,8 +132,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 16
     },
     {
       "id": "SU-016",
@@ -131,8 +143,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 17
     },
     {
       "id": "SU-017",
@@ -141,8 +154,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 18
     },
     {
       "id": "SU-018",
@@ -151,8 +165,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 19
     },
     {
       "id": "SU-019",
@@ -161,8 +176,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 20
     },
     {
       "id": "SU-020",
@@ -171,8 +187,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 21
     },
     {
       "id": "SU-021",
@@ -181,8 +198,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 22
     },
     {
       "id": "SU-022",
@@ -191,8 +209,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 23
     },
     {
       "id": "SU-023",
@@ -201,8 +220,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 24
     },
     {
       "id": "SU-024",
@@ -211,8 +231,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 25
     },
     {
       "id": "SU-025",
@@ -221,8 +242,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 26
     },
     {
       "id": "SU-026",
@@ -231,8 +253,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 27
     },
     {
       "id": "SU-027",
@@ -241,8 +264,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 28
     },
     {
       "id": "SU-028",
@@ -251,8 +275,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 29
     },
     {
       "id": "SU-029",
@@ -261,8 +286,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 30
     },
     {
       "id": "SU-034",
@@ -271,8 +297,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 31
     },
     {
       "id": "SU-035",
@@ -281,8 +308,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 32
     },
     {
       "id": "SU-036",
@@ -291,8 +319,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 33
     },
     {
       "id": "SU-037",
@@ -301,8 +330,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 34
     },
     {
       "id": "SU-038",
@@ -311,8 +341,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 35
     },
     {
       "id": "SU-039",
@@ -321,8 +352,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 36
     },
     {
       "id": "SU-040",
@@ -331,8 +363,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 37
     },
     {
       "id": "SU-041",
@@ -341,8 +374,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 38
     },
     {
       "id": "SU-042",
@@ -351,8 +385,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 39
     },
     {
       "id": "SU-043",
@@ -361,8 +396,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 40
     },
     {
       "id": "SU-044",
@@ -371,8 +407,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 41
     },
     {
       "id": "SU-045",
@@ -381,8 +418,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 42
     },
     {
       "id": "SU-046",
@@ -391,8 +429,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 43
     },
     {
       "id": "SU-047",
@@ -401,8 +440,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 44
     },
     {
       "id": "SU-048",
@@ -411,8 +451,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 45
     },
     {
       "id": "SU-049",
@@ -421,8 +462,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 46
     },
     {
       "id": "SU-050",
@@ -431,8 +473,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 47
     },
     {
       "id": "SU-051",
@@ -441,8 +484,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 48
     },
     {
       "id": "SU-052",
@@ -451,8 +495,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 49
     },
     {
       "id": "SU-053",
@@ -461,8 +506,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 50
     },
     {
       "id": "SU-054",
@@ -471,8 +517,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 51
     },
     {
       "id": "SU-055",
@@ -481,8 +528,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 52
     },
     {
       "id": "SU-056",
@@ -491,8 +539,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 53
     },
     {
       "id": "SU-057",
@@ -501,8 +550,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 54
     },
     {
       "id": "SU-058",
@@ -511,8 +561,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 55
     },
     {
       "id": "SU-059",
@@ -521,8 +572,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 56
     },
     {
       "id": "SU-060",
@@ -531,8 +583,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 57
     },
     {
       "id": "SU-061",
@@ -541,8 +594,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 58
     },
     {
       "id": "SU-062",
@@ -551,8 +605,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 59
     },
     {
       "id": "SU-063",
@@ -561,8 +616,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 60
     },
     {
       "id": "SU-064",
@@ -571,8 +627,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 61
     },
     {
       "id": "SU-065",
@@ -581,8 +638,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 62
     },
     {
       "id": "SU-066",
@@ -591,8 +649,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 63
     },
     {
       "id": "SU-067",
@@ -601,8 +660,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 64
     },
     {
       "id": "SU-068",
@@ -611,8 +671,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 65
     },
     {
       "id": "SU-069",
@@ -621,8 +682,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 66
     },
     {
       "id": "SU-070",
@@ -631,8 +693,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 67
     },
     {
       "id": "SU-071",
@@ -641,8 +704,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 68
     },
     {
       "id": "SU-072",
@@ -651,8 +715,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 69
     },
     {
       "id": "SU-073",
@@ -661,8 +726,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 70
     },
     {
       "id": "SU-074",
@@ -671,8 +737,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 71
     },
     {
       "id": "SU-075",
@@ -681,8 +748,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 72
     },
     {
       "id": "SU-076",
@@ -691,8 +759,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 73
     },
     {
       "id": "SU-077",
@@ -701,8 +770,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 74
     },
     {
       "id": "SU-078",
@@ -711,8 +781,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 75
     },
     {
       "id": "SU-079",
@@ -721,8 +792,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 76
     },
     {
       "id": "SU-080",
@@ -731,8 +803,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 77
     },
     {
       "id": "SU-081",
@@ -741,8 +814,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 78
     },
     {
       "id": "SU-082",
@@ -751,8 +825,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 79
     },
     {
       "id": "SU-083",
@@ -761,8 +836,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 80
     },
     {
       "id": "SU-084",
@@ -771,8 +847,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 81
     },
     {
       "id": "SU-085",
@@ -781,8 +858,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 82
     },
     {
       "id": "SU-086",
@@ -791,8 +869,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 83
     },
     {
       "id": "SU-087",
@@ -801,8 +880,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 84
     },
     {
       "id": "SU-088",
@@ -811,8 +891,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 85
     },
     {
       "id": "SU-089",
@@ -821,8 +902,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 10,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 86
     },
     {
       "id": "SU-090",
@@ -831,8 +913,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 0
     },
     {
       "id": "SU-091",
@@ -841,8 +924,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 1
     },
     {
       "id": "SU-092",
@@ -851,8 +935,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 2
     },
     {
       "id": "SU-093",
@@ -861,8 +946,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 3
     },
     {
       "id": "SU-094",
@@ -871,8 +957,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 4
     },
     {
       "id": "SU-095",
@@ -881,8 +968,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 5
     },
     {
       "id": "SU-096",
@@ -891,8 +979,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 6
     },
     {
       "id": "SU-097",
@@ -901,8 +990,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 7
     },
     {
       "id": "SU-098",
@@ -911,8 +1001,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 8
     },
     {
       "id": "SU-099",
@@ -921,8 +1012,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 9
     },
     {
       "id": "SU-100",
@@ -931,8 +1023,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 10
     },
     {
       "id": "SU-101",
@@ -941,8 +1034,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 11
     },
     {
       "id": "SU-102",
@@ -951,8 +1045,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 12
     },
     {
       "id": "SU-103",
@@ -961,8 +1056,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 13
     },
     {
       "id": "SU-104",
@@ -971,8 +1067,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 14
     },
     {
       "id": "SU-105",
@@ -981,8 +1078,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 15
     },
     {
       "id": "SU-106",
@@ -991,8 +1089,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 16
     },
     {
       "id": "SU-107",
@@ -1001,8 +1100,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 17
     },
     {
       "id": "SU-108",
@@ -1011,8 +1111,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 18
     },
     {
       "id": "SU-109",
@@ -1021,8 +1122,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 19
     },
     {
       "id": "SU-110",
@@ -1031,8 +1133,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 20
     },
     {
       "id": "SU-111",
@@ -1041,8 +1144,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 21
     },
     {
       "id": "SU-112",
@@ -1051,8 +1155,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 22
     },
     {
       "id": "SU-113",
@@ -1061,8 +1166,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 23
     },
     {
       "id": "SU-114",
@@ -1071,8 +1177,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 24
     },
     {
       "id": "SU-115",
@@ -1081,8 +1188,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 25
     },
     {
       "id": "SU-116",
@@ -1091,8 +1199,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 26
     },
     {
       "id": "SU-117",
@@ -1101,8 +1210,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 27
     },
     {
       "id": "SU-118",
@@ -1111,8 +1221,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 28
     },
     {
       "id": "SU-119",
@@ -1121,8 +1232,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 29
     },
     {
       "id": "SU-120",
@@ -1131,8 +1243,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 30
     },
     {
       "id": "SU-121",
@@ -1141,8 +1254,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 31
     },
     {
       "id": "SU-122",
@@ -1151,8 +1265,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 32
     },
     {
       "id": "SU-123",
@@ -1161,8 +1276,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 33
     },
     {
       "id": "SU-124",
@@ -1171,8 +1287,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 34
     },
     {
       "id": "SU-125",
@@ -1181,8 +1298,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 35
     },
     {
       "id": "SU-126",
@@ -1191,8 +1309,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 36
     },
     {
       "id": "SU-127",
@@ -1201,8 +1320,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 37
     },
     {
       "id": "SU-128",
@@ -1211,8 +1331,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 38
     },
     {
       "id": "SU-129",
@@ -1221,8 +1342,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 39
     },
     {
       "id": "SU-130",
@@ -1231,8 +1353,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 40
     },
     {
       "id": "SU-131",
@@ -1241,8 +1364,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 41
     },
     {
       "id": "SU-132",
@@ -1251,8 +1375,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 42
     },
     {
       "id": "SU-133",
@@ -1261,8 +1386,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 43
     },
     {
       "id": "SU-134",
@@ -1271,8 +1397,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 44
     },
     {
       "id": "SU-135",
@@ -1281,8 +1408,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 45
     },
     {
       "id": "SU-136",
@@ -1291,8 +1419,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 46
     },
     {
       "id": "SU-137",
@@ -1301,8 +1430,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 47
     },
     {
       "id": "SU-138",
@@ -1311,8 +1441,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 48
     },
     {
       "id": "SU-139",
@@ -1321,8 +1452,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 49
     },
     {
       "id": "SU-140",
@@ -1331,8 +1463,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 50
     },
     {
       "id": "SU-141",
@@ -1341,8 +1474,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 51
     },
     {
       "id": "SU-142",
@@ -1351,8 +1485,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 52
     },
     {
       "id": "SU-143",
@@ -1361,8 +1496,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 53
     },
     {
       "id": "SU-144",
@@ -1371,8 +1507,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 54
     },
     {
       "id": "SU-145",
@@ -1381,8 +1518,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 55
     },
     {
       "id": "SU-146",
@@ -1391,8 +1529,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 56
     },
     {
       "id": "SU-147",
@@ -1401,8 +1540,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 57
     },
     {
       "id": "SU-148",
@@ -1411,8 +1551,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 58
     },
     {
       "id": "SU-149",
@@ -1421,8 +1562,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 59
     },
     {
       "id": "SU-150",
@@ -1431,8 +1573,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 60
     },
     {
       "id": "SU-151",
@@ -1441,8 +1584,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 61
     },
     {
       "id": "SU-152",
@@ -1451,8 +1595,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 62
     },
     {
       "id": "SU-153",
@@ -1461,8 +1606,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 63
     },
     {
       "id": "SU-154",
@@ -1471,8 +1617,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 64
     },
     {
       "id": "SU-155",
@@ -1481,8 +1628,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 65
     },
     {
       "id": "SU-156",
@@ -1491,8 +1639,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 66
     },
     {
       "id": "SU-157",
@@ -1501,8 +1650,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 67
     },
     {
       "id": "SU-158",
@@ -1511,8 +1661,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 68
     },
     {
       "id": "SU-159",
@@ -1521,8 +1672,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 69
     },
     {
       "id": "SU-160",
@@ -1531,8 +1683,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 70
     },
     {
       "id": "SU-161",
@@ -1541,8 +1694,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 71
     },
     {
       "id": "SU-162",
@@ -1551,8 +1705,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 72
     },
     {
       "id": "SU-163",
@@ -1561,8 +1716,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 73
     },
     {
       "id": "SU-164",
@@ -1571,8 +1727,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 74
     },
     {
       "id": "SU-165",
@@ -1581,8 +1738,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 75
     },
     {
       "id": "SU-166",
@@ -1591,8 +1749,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 76
     },
     {
       "id": "SU-167",
@@ -1601,8 +1760,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 77
     },
     {
       "id": "SU-168",
@@ -1611,8 +1771,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 78
     },
     {
       "id": "SU-169",
@@ -1621,8 +1782,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 79
     },
     {
       "id": "SU-170",
@@ -1631,8 +1793,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 80
     },
     {
       "id": "SU-171",
@@ -1641,8 +1804,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 81
     },
     {
       "id": "SU-172",
@@ -1651,8 +1815,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 82
     },
     {
       "id": "SU-173",
@@ -1661,8 +1826,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 83
     },
     {
       "id": "SU-174",
@@ -1671,8 +1837,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 84
     },
     {
       "id": "SU-175",
@@ -1681,8 +1848,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 85
     },
     {
       "id": "SU-176",
@@ -1691,8 +1859,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 86
     },
     {
       "id": "SU-177",
@@ -1701,8 +1870,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 87
     },
     {
       "id": "SU-178",
@@ -1711,8 +1881,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 88
     },
     {
       "id": "SU-179",
@@ -1721,8 +1892,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 89
     },
     {
       "id": "SU-180",
@@ -1731,8 +1903,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 90
     },
     {
       "id": "SU-181",
@@ -1741,8 +1914,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 91
     },
     {
       "id": "SU-182",
@@ -1751,8 +1925,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 92
     },
     {
       "id": "SU-183",
@@ -1761,8 +1936,9 @@
       "dimensionsMm": null,
       "reinforcement": null,
       "quantityTakeoff": null,
-      "sourceSheet": null,
-      "notes": "ابعاد و مقادیر تا کنترل تصویر نقشه ثبت نشده‌اند."
+      "sourceSheet": 11,
+      "notes": "شناسه از جدول نقشه استخراج شده؛ ابعاد و مقادیر باید با تصویر شیت کنترل شوند.",
+      "tableRow": 93
     }
   ]
 }
