@@ -23,6 +23,8 @@ jobs:
           cache: true
       - name: Flutter version
         run: flutter --version
+      - name: Generate Android platform scaffolding
+        run: flutter create --platforms=android --project-name support_foundation_takeoff .
       - name: Resolve dependencies
         run: flutter pub get
       - name: Check formatting
