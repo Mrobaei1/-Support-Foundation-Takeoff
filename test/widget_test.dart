@@ -5,7 +5,7 @@ import 'package:support_foundation_takeoff/main.dart';
 void main() {
   testWidgets('shows offline takeoff home page', (tester) async {
     await tester.pumpWidget(const SupportFoundationApp());
-    await tester.pump(const Duration(milliseconds: 500));
+    await tester.pumpAndSettle();
 
     expect(find.text('متره فونداسیون ساپورت‌ها'), findsOneWidget);
     expect(find.text('پروژه خط لوله پروپان'), findsOneWidget);
@@ -14,7 +14,7 @@ void main() {
 
   testWidgets('search filters support identifiers', (tester) async {
     await tester.pumpWidget(const SupportFoundationApp());
-    await tester.pump(const Duration(milliseconds: 500));
+    await tester.pumpAndSettle();
 
     await tester.enterText(find.byType(EditableText), 'SU-034');
     await tester.pump();
