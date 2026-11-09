@@ -32,10 +32,10 @@ class _SupportsHomePageState extends State<SupportsHomePage> {
   static List<String> _buildSupportIds() {
     final ids = <String>[];
     for (var n = 4; n <= 29; n++) {
-      ids.add('SU-\${n.toString().padLeft(3, '0')}');
+      ids.add('SU-${n.toString().padLeft(3, '0')}');
     }
     for (var n = 34; n <= 183; n++) {
-      ids.add('SU-\${n.toString().padLeft(3, '0')}');
+      ids.add('SU-${n.toString().padLeft(3, '0')}');
     }
     return ids;
   }
