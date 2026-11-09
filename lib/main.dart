@@ -1,7 +1,4 @@
-import 'dart:convert';
-
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 
 void main() => runApp(const SupportFoundationApp());
 
@@ -29,17 +26,23 @@ class SupportsHomePage extends StatefulWidget {
 
 class _SupportsHomePageState extends State<SupportsHomePage> {
   final _searchController = TextEditingController();
-  late final Future<List<String>> _supportIdsFuture = _loadSupportIds();
+  late final List<String> _supportIds = _buildSupportIds();
   String _query = '';
 
-  Future<List<String>> _loadSupportIds() async {
-    final source = await rootBundle.loadString('data/supports.json');
-    final document = jsonDecode(source) as Map<String, dynamic>;
-    final supports = document['supports'] as List<dynamic>;
-    return supports
-        .map((item) => (item as Map<String, dynamic>)['id'] as String)
-        .toList(growable: false);
+  static List<String> _buildSupportIds() {
+    final ids = <String>[];
+    for (var n = 4; n <= 29; n++) {
+      ids.add('SU-${n.toString().padLeft(3, '0')}');
+    }
+    for (var n = 34; n <= 183; n++) {
+      ids.add('SU-${n.toString().padLeft(3, '0')}');
+    }
+    return ids;
   }
+
+  List<String> get _filteredIds => _supportIds
+      .where((id) => id.toLowerCase().contains(_query.trim().toLowerCase()))
+      .toList(growable: false);
 
   @override
   void dispose() {
@@ -132,76 +135,55 @@ class _SupportsHomePageState extends State<SupportsHomePage> {
                 ),
                 const SizedBox(height: 8),
                 Expanded(
-                  child: FutureBuilder<List<String>>(
-                    future: _supportIdsFuture,
-                    builder: (context, snapshot) {
-                      if (snapshot.hasError) {
-                        return const Center(
-                          child: Text('خطا در خواندن فهرست آفلاین ساپورت‌ها'),
-                        );
-                      }
-                      if (!snapshot.hasData) {
-                        return const Center(child: CircularProgressIndicator());
-                      }
-                      final query = _query.trim().toLowerCase();
-                      final filteredIds = snapshot.data!
-                          .where((id) => id.toLowerCase().contains(query))
-                          .toList(growable: false);
-                      if (filteredIds.isEmpty) {
-                        return const Center(child: Text('ساپورتی پیدا نشد'));
-                      }
-                      return ListView.separated(
-                        padding: const EdgeInsets.all(16),
-                        itemCount: filteredIds.length,
-                        separatorBuilder: (_, __) => const Divider(height: 1),
-                        itemBuilder: (context, index) {
-                          final id = filteredIds[index];
-                          return ListTile(
-                            leading: const CircleAvatar(
-                              child: Icon(Icons.foundation_outlined),
-                            ),
-                            title: Text(id, textDirection: TextDirection.ltr),
-                            subtitle: const Text(
-                              'در انتظار استخراج و کنترل نقشه',
-                            ),
-                            trailing: const Icon(Icons.chevron_left),
-                            onTap: () => showModalBottomSheet<void>(
-                              context: context,
-                              builder: (context) => Directionality(
-                                textDirection: TextDirection.rtl,
-                                child: Padding(
-                                  padding: const EdgeInsets.all(24),
-                                  child: Column(
-                                    mainAxisSize: MainAxisSize.min,
-                                    crossAxisAlignment:
-                                        CrossAxisAlignment.start,
-                                    children: [
-                                      Text(
-                                        id,
-                                        style: Theme.of(context)
-                                            .textTheme
-                                            .titleLarge,
-                                        textDirection: TextDirection.ltr,
-                                      ),
-                                      const SizedBox(height: 12),
-                                      const Text(
-                                        'جزئیات این ساپورت پس از کنترل ابعاد، '
-                                        'تیپ فونداسیون و آرماتورگذاری ثبت خواهد شد.',
-                                      ),
-                                      const SizedBox(height: 16),
-                                      const Chip(
-                                        avatar: Icon(Icons.pending_outlined),
-                                        label: Text(
-                                          'داده هنوز تأیید نشده است',
-                                        ),
-                                      ),
-                                    ],
+                  child: ListView.separated(
+                    padding: const EdgeInsets.all(16),
+                    itemCount: _filteredIds.length,
+                    separatorBuilder: (_, __) => const Divider(height: 1),
+                    itemBuilder: (context, index) {
+                      final id = _filteredIds[index];
+                      return ListTile(
+                        leading: const CircleAvatar(
+                          child: Icon(Icons.foundation_outlined),
+                        ),
+                        title: Text(id, textDirection: TextDirection.ltr),
+                        subtitle: const Text(
+                          'در انتظار استخراج و کنترل نقشه',
+                        ),
+                        trailing: const Icon(Icons.chevron_left),
+                        onTap: () => showModalBottomSheet<void>(
+                          context: context,
+                          builder: (context) => Directionality(
+                            textDirection: TextDirection.rtl,
+                            child: Padding(
+                              padding: const EdgeInsets.all(24),
+                              child: Column(
+                                mainAxisSize: MainAxisSize.min,
+                                crossAxisAlignment: CrossAxisAlignment.start,
+                                children: [
+                                  Text(
+                                    id,
+                                    style: Theme.of(context)
+                                        .textTheme
+                                        .titleLarge,
+                                    textDirection: TextDirection.ltr,
                                   ),
-                                ),
+                                  const SizedBox(height: 12),
+                                  const Text(
+                                    'جزئیات این ساپورت پس از کنترل ابعاد، '
+                                    'تیپ فونداسیون و آرماتورگذاری ثبت خواهد شد.',
+                                  ),
+                                  const SizedBox(height: 16),
+                                  const Chip(
+                                    avatar: Icon(Icons.pending_outlined),
+                                    label: Text(
+                                      'داده هنوز تأیید نشده است',
+                                    ),
+                                  ),
+                                ],
                               ),
                             ),
-                          );
-                        },
+                          ),
+                        ),
                       );
                     },
                   ),
