@@ -29,7 +29,10 @@ jobs:
       - name: Flutter version
         run: flutter --version
       - name: Generate Android platform scaffolding
-        run: flutter create --platforms=android --project-name support_foundation_takeoff .
+        run: flutter create --platforms=android --org com.mrobaei --project-name support_foundation_takeoff .
+      - name: Set Android launcher label
+        run: sed -i 's/android:label="support_foundation_takeoff"/android:label="متره فونداسیون ساپورت‌ها"/' android/app/src/main/AndroidManifest.xml
+
       - name: Resolve dependencies
         run: flutter pub get
       - name: Format Dart code
