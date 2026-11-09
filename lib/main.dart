@@ -61,8 +61,8 @@ class _SupportsHomePageState extends State<SupportsHomePage> {
           body: SafeArea(
             child: Column(
               children: [
-                Padding(
-                  padding: const EdgeInsets.fromLTRB(16, 12, 16, 8),
+                const Padding(
+                  padding: EdgeInsets.fromLTRB(16, 12, 16, 8),
                   child: Card(
                     child: Padding(
                       padding: const EdgeInsets.all(16),
