@@ -19,7 +19,19 @@ void main() {
     await tester.enterText(find.byType(EditableText), 'SU-034');
     await tester.pump();
 
-    expect(find.text('SU-034'), findsOneWidget);
-    expect(find.text('SU-035'), findsNothing);
+    expect(
+      find.descendant(
+        of: find.byType(ListView),
+        matching: find.text('SU-034'),
+      ),
+      findsOneWidget,
+    );
+    expect(
+      find.descendant(
+        of: find.byType(ListView),
+        matching: find.text('SU-035'),
+      ),
+      findsNothing,
+    );
   });
 }
