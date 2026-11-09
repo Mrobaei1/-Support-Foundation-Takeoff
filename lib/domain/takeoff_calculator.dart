@@ -7,7 +7,7 @@ class FoundationTakeoffInput {
     required this.topOfFoundationLevelM,
     this.workingSpaceEachSideM = 0.6,
     this.blindingThicknessM = 0.1,
-    this.blindingOverhangEachSideM = 0,
+    this.blindingOverhangEachSideM,
     this.permanentVolumeInsideExcavationM3,
   });
 
@@ -18,7 +18,7 @@ class FoundationTakeoffInput {
   final double topOfFoundationLevelM;
   final double workingSpaceEachSideM;
   final double blindingThicknessM;
-  final double blindingOverhangEachSideM;
+  final double? blindingOverhangEachSideM;
 
   /// Must include all permanent concrete volume below ground, including
   /// footing, blinding and any pedestal portion inside the excavation.
@@ -38,12 +38,12 @@ class FoundationTakeoffInput {
     return excavationLength * excavationWidth * excavationDepthM;
   }
 
-  double get blindingConcreteM3 {
+  double? get blindingConcreteM3 {
+    final overhang = blindingOverhangEachSideM;
+    if (overhang == null) return null;
     _validate();
-    final length =
-        lengthM + 2 * blindingOverhangEachSideM;
-    final width =
-        widthM + 2 * blindingOverhangEachSideM;
+    final length = lengthM + 2 * overhang;
+    final width = widthM + 2 * overhang;
     return length * width * blindingThicknessM;
   }
 
@@ -76,7 +76,8 @@ class FoundationTakeoffInput {
         thicknessM <= 0 ||
         workingSpaceEachSideM < 0 ||
         blindingThicknessM < 0 ||
-        blindingOverhangEachSideM < 0) {
+        (blindingOverhangEachSideM != null &&
+            blindingOverhangEachSideM! < 0)) {
       throw ArgumentError('Dimensions and allowances are invalid.');
     }
     if (excavationDepthM <= 0) {
