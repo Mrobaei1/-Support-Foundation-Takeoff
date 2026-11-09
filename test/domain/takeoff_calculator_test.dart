@@ -9,6 +9,7 @@ void main() {
       thicknessM: 0.5,
       groundLevelM: 24.37,
       topOfFoundationLevelM: 24.07,
+      blindingOverhangEachSideM: 0,
     );
 
     test('calculates footing, blinding and excavation quantities', () {
@@ -17,6 +18,17 @@ void main() {
       expect(input.excavationDepthM, closeTo(0.9, 1e-9));
       expect(input.excavationVolumeM3, closeTo(7.056, 1e-9));
       expect(input.foundationFormworkM2, closeTo(3.2, 1e-9));
+    });
+
+    test('does not invent blinding overhang when it is unspecified', () {
+      const withoutOverhang = FoundationTakeoffInput(
+        lengthM: 1.6,
+        widthM: 1.6,
+        thicknessM: 0.5,
+        groundLevelM: 24.37,
+        topOfFoundationLevelM: 24.07,
+      );
+      expect(withoutOverhang.blindingConcreteM3, isNull);
     });
 
     test('does not invent backfill without permanent below-ground volume',
